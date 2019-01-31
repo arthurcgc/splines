@@ -12,6 +12,7 @@
                 "closed_spline.cpp",
                 "../includes/thomas.cpp",
                 "../includes/matriz.c",
+                "../includes/redraw.cpp",
                 "-lm",
                 "-lGL",
                 "-lGLU",
